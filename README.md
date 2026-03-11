@@ -65,7 +65,7 @@ Personal portfolio to showcase projects.
 
 ## 🔥 GitHub Streak
 
-![GitHub streak](https://streak-stats.demolab.com?uservikas-chaurasia21=&theme=tokyonight)
+![GitHub streak](https://streak-stats.demolab.com?user=vikas-chaurasia21&theme=tokyonight)
 
 ---
 

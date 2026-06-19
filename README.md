@@ -1,21 +1,26 @@
-# 👋 Hi, I'm Vikas Chaura﻿sia
+# 👋 Hi, I'm Vikas Chaurasia
 
-💻 Passionate about *Data Structures, Algorithms, and Web Development*  
-🚀 Working towards becoming a *Software Developer*
+### 🚀 Aspiring Software Engineer | Full-Stack Developer | DSA Enthusiast
+
+💻 Passionate about solving problems through **Data Structures & Algorithms** and building impactful **Full-Stack applications**.
 
 ---
 
 ## 🚀 About Me
 
-🔭 I’m currently working on *Data Structures & Algorithms using C++*  
-🤝 I’m looking to collaborate on *Open Source & Real World Projects*  
-🌱 I’m currently learning *Web Development (HTML, CSS, JavaScript)*  
-💬 Ask me about *C++, DSA, Problem Solving*  
-⚡ Fun fact: I treat *bugs as puzzles, not problems*
+🔭 Currently solving **DSA problems using C++** and building real-world projects.
+
+🌱 Learning and exploring **Full-Stack Development, Backend Engineering, and AI Integration**.
+
+🤝 Open to collaborating on **Open Source and Innovative Projects**.
+
+💬 Ask me about **C++, DSA, JavaScript, Node.js, and Problem Solving**.
+
+⚡ Fun Fact: *I treat bugs as puzzles, not problems.*
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/vikas-chaurasia-86765b211/)
 
@@ -25,41 +30,53 @@
 
 ## 💻 Tech Stack
 
+### Languages
 ![C](https://img.shields.io/badge/C-blue?logo=c)
-
 ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
-
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
-
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
 
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?logo=express)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
+![Railway](https://img.shields.io/badge/Railway-purple)
+![Gemini](https://img.shields.io/badge/Gemini_API-blue)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Project
 
-🔹 *Real Estate Finder*  
-Tech: React, Node.js, MongoDB  
-A platform to find nearby properties with secure authentication.
+### 🤖 AI Resume Analyzer
 
-🔹 *Metro Route Planner*  
-Tech: JavaScript, Dijkstra Algorithm  
-Finds the shortest path between metro stations.
+A full-stack AI-powered ATS Resume Analyzer that evaluates resumes using custom scoring logic and generates personalized feedback using Gemini API.
 
-🔹 *Portfolio Website*  
-Tech: HTML, CSS, JavaScript  
-Personal portfolio to showcase projects.
+#### ✨ Features
+- ATS Score Calculation
+- Skills & Missing Skills Detection
+- Resume Section Analysis
+- Action Word Evaluation
+- AI-Powered Feedback using Gemini API
+- Downloadable Reports
+
+🔗 **Live Demo:**  
+https://vikas-chaurasia21-ai-resume-analyze.vercel.app/
+
+🔗 **Repository:**  
+https://github.com/vikas-chaurasia21/AI-Resume-Analyzer
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vikas-chaurasia21&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikas-chaurasia21&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -75,4 +92,8 @@ Personal portfolio to showcase projects.
 
 ---
 
-⭐ From [Vikas Chaurasia ](https://github.com/vikas-chaurasia21)
+### ⭐ Building. Debugging. Deploying. Learning.
+
+> From asking **"What does await do?"** to deploying my first **Full-Stack AI application** — this is just the beginning. 🚀
+
+⭐ From [Vikas Chaurasia](https://github.com/vikas-chaurasia21)

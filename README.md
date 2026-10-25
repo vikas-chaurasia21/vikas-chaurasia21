@@ -26,6 +26,8 @@
 
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:vikaskc02@gmail.com)
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/vickyy21/)
+
 ---
 
 ## 💻 Tech Stack

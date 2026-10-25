@@ -24,7 +24,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/vikas-chaurasia-86765b211/)
 
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:vikaskc02@gmail.com)
+[![Email:- vikaskc02@gmail.com](https://img.shields.io/badge/Email-red?logo=gmail)](vikaskc02@gmail.com)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/vickyy21/)
 

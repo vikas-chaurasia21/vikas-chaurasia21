@@ -124,7 +124,7 @@ const vikas = {
 - AI-powered feedback using the Gemini API
 - Downloadable reports
 
-<a href="https://vikas-chaurasia21-ai-resume-analyze.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<a href="https://vikas-chaurasia21-ai-resume-analyzer-3qm4ctzds-vv21.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 <a href="https://github.com/vikas-chaurasia21/AI-Resume-Analyzer"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" /></a>
 
 ---

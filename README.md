@@ -8,8 +8,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vikas-chaurasia21&style=flat-square&color=00b4d8&label=PROFILE+VIEWS)
-
 </div>
 
 ---
